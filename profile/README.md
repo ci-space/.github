@@ -14,3 +14,7 @@ ci-space - Space for CI tools
 |--------------------------------------------------------------|------------------------------------------------|
 | [github-output](https://github.com/ci-space/github-output)   | Library for writing values into $GITHUB_OUTPUT |
 | [version-object](https://github.com/ci-space/version-object) | Library for working with version               |
+
+## Workflows
+
+- [Release Docker based GitHub Action](./https://github.com/ci-space/workflows?tab=readme-ov-file#release-docker-based-github-action)
