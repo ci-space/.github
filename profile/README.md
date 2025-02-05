@@ -24,4 +24,4 @@ ci-space - Space for CI tools
 
 ## Workflows
 
-- [Release Docker based GitHub Action](./https://github.com/ci-space/workflows?tab=readme-ov-file#release-docker-based-github-action)
+- [Release Docker based GitHub Action](https://github.com/ci-space/workflows?tab=readme-ov-file#release-docker-based-github-action)
