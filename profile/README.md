@@ -1,5 +1,9 @@
 ci-space - Space for CI tools
 
+## Workflows
+
+- [Release Docker based GitHub Action](https://github.com/ci-space/workflows?tab=readme-ov-file#release-docker-based-github-action)
+
 # Linters
 
 | Name                                                               | Description                                                   |
@@ -22,6 +26,9 @@ ci-space - Space for CI tools
 | [github-output](https://github.com/ci-space/github-output)   | Library for writing values into $GITHUB_OUTPUT |
 | [version-object](https://github.com/ci-space/version-object) | Library for working with version               |
 
-## Workflows
+# Migration tools
 
-- [Release Docker based GitHub Action](https://github.com/ci-space/workflows?tab=readme-ov-file#release-docker-based-github-action)
+| Name                                                         | Description                                    |
+|--------------------------------------------------------------|------------------------------------------------|
+| [goose-postgres](https://github.com/ci-space/goose-postgres)   | Lightweight image for Goose with PostgreSQL  |
+| [up-goose-migrations](https://github.com/ci-space/up-goose-migrations) | Action for up migrations via Goose   |
