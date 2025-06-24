@@ -17,6 +17,7 @@ ci-space - Space for CI tools
 | [edit-config](https://github.com/ci-space/edit-config)             | Console app and GitHub action for editing configuration files |
 | [go-modules-action](https://github.com/ci-space/go-modules-action) | Action for get Go modules from repository.                    |
 | [protolint-action](https://github.com/ci-space/protolint-action)   | Action for run protolint with plugins                         |
+| [validate-credentials](https://github.com/ci-space/validate-credentials)   | Action for validate credentials for GitHub / Telegram account |
 
 
 # Go libraries
