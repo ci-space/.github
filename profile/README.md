@@ -33,3 +33,10 @@ ci-space - Space for CI tools
 |--------------------------------------------------------------|------------------------------------------------|
 | [goose-postgres](https://github.com/ci-space/goose-postgres)   | Lightweight image for Goose with PostgreSQL  |
 | [up-goose-migrations](https://github.com/ci-space/up-goose-migrations) | Action for up migrations via Goose   |
+
+
+# Notificaions
+
+| Name                                                         | Description                                    |
+|--------------------------------------------------------------|------------------------------------------------|
+| [notify-telegram](https://github.com/ci-space/notify-telegram)   | Action for sending messages to Telegram    |
