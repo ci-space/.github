@@ -31,6 +31,7 @@ ci-space - Space for CI tools
 
 | Name                                                         | Description                                    |
 |--------------------------------------------------------------|------------------------------------------------|
+| [goose-mysql](https://github.com/ci-space/goose-mysql)   | Lightweight image for Goose with MySQL             |
 | [goose-postgres](https://github.com/ci-space/goose-postgres)   | Lightweight image for Goose with PostgreSQL  |
 | [up-goose-migrations](https://github.com/ci-space/up-goose-migrations) | Action for up migrations via Goose   |
 
